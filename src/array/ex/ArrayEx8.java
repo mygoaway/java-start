@@ -39,7 +39,7 @@ public class ArrayEx8 {
                     System.out.println(productNames[i] + ": " + productPrices[i] + "원");
                 }
             } else if (option == 3) {
-                System.out.println("프로그램 종료");
+                System.out.println("프로그램이 종료 되었습니다.");
                 break;
             } else {
                 System.out.println("올바르지 않은 선택입니다.");
